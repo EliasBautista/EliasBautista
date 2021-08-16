@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elias Bautista</h1>
 <h3 align="center">Un apasionado ingeniero de software de México, Querétaro.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasbautista&label=Profile%20views&color=0eb47d&style=flat" alt="eliasbautista" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hugodanzig" target="blank"><img src="https://img.shields.io/twitter/follow/hugodanzig?logo=twitter&style=for-the-badge" alt="hugodanzig" /></a> </p>
+<p align="right"> <a href="https://twitter.com/hugodanzig" target="blank"><img src="https://img.shields.io/twitter/follow/hugodanzig?logo=twitter&style=for-the-badge" alt="hugodanzig" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **administración de proyectos, Swift, Objective C**
 
