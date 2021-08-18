@@ -1,6 +1,6 @@
 <!--- GIF --->
 <p align="center">
-  <img width="1200" height="300" src="https://raw.githubusercontent.com/EliasBautista/EliasBautista/master/assets/Personal%20Banner.gif">
+  <img width="1200" height="260" src="https://raw.githubusercontent.com/EliasBautista/EliasBautista/master/assets/Banner.gif">
 </p>
  <!--- Encabezado --->
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> welcome to my github profile</h1>
@@ -106,3 +106,17 @@
 <a href="https://github.com/EliasBautista/2DO_Post_It">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasBautista&repo=2DO_Post_It&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<br/><br/>
+<hr>
+<br/><br/>
+
+<p align="center">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/EliasBautista/EliasBautista/master/assets/Logo.png">
+</p>
+
+
+
+<p align="center" style="color:#18191F;font-size:25px;">
+Elias Bautista
+</p>
