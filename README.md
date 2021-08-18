@@ -1,6 +1,10 @@
+<!--- GIF --->
+<p align="center">
+  <img width="1200" height="300" src="https://raw.githubusercontent.com/EliasBautista/EliasBautista/master/assets/Personal%20Banner.gif">
+</p>
  <!--- Encabezado --->
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Elias Bautista</h1>
-<h3 align="center">Un apasionado ingeniero de software de México, Querétaro.</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> welcome to my github profile</h1>
+<h3 align="center">Soy un apasionado ingeniero de software de México, Querétaro.</h3>
 <br/>
 
  <!--- Descripción --->
@@ -14,7 +18,7 @@
 
 - ⚡ Fun fact **Mis hobbies son los videojuegos, la cocina, el diseño y la guitarra.**
 
-
+<hr/>
  <!--- Social --->
 <br/>
 <h2 align="left"> 📧 Connect with me:</h2>
