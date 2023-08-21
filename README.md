@@ -8,15 +8,15 @@
 <br/>
 
  <!--- Descripción --->
-- 🌱 Actualmente estoy aprendiendo **administración de proyectos, Swift, Objective C**
+- 🌱 Actualmente estoy aprendiendo **Kafka, Golang, SQL Avanzado**
 
-- 🤝 Busco ayudar en proyectos de **ciencia de datos, aplicaciones en android (Kotlin), desarrollo web**
+- 🤝 Busco ayudar en proyectos de **Automatización de procesos de calidad de datos, Data Warehousing, Aprendizaje automatico con AWS**
 
-- 💬 Pregúntame acerca de **python, R, visualización de datos, JavaScript, Angular, React, Kotlin, Android, UX/UI.**
+- 💬 Pregúntame acerca de **Python, Pandas, Numpy, ML con Python y Sagemaker, Modelado de datos**
 
 - 📫 Como contactarme: **elias.bautistaflores@outlook.com**
 
-- ⚡ Fun fact **Mis hobbies son los videojuegos, la cocina, el diseño y la guitarra.**
+- ⚡ Fun fact **Mis escritores fav son: Julio Verne, Neil Gaiman y Asimov**
 
 <hr/>
  <!--- Social --->
